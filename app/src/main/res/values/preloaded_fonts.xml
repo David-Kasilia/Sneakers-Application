@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/advent_pro_semibold</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/archivo_narrow_bold_italic</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/cinzel_decorative_bold</item>
+        <item>@font/crimson_text_semibold_italic</item>
+        <item>@font/geostar_fill</item>
+        <item>@font/goldman</item>
+        <item>@font/grenze_semibold_italic</item>
+        <item>@font/iceberg</item>
+        <item>@font/new_rocker</item>
+        <item>@font/old_standard_tt_italic</item>
+        <item>@font/orbitron</item>
+        <item>@font/orbitron_bold</item>
+        <item>@font/squada_one</item>
+    </array>
+</resources>
